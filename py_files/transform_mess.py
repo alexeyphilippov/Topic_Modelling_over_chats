@@ -8,12 +8,12 @@ import time
 import numpy as np
 import nltk
 
-PATH_FOR_INCOMMING_MESSAGE = '/Users/aleksejfilippov/Desktop/Python_projects/topic_model/data_for_topic model/incoming_data.txt'
-PATH_FOR_STOP_WORDS = '/Users/aleksejfilippov/Desktop/Python_projects/topic_model/data_for_topic model/stop_words.txt'
-PATH_FOR_TRAINED_MODEL = '/Users/aleksejfilippov/Desktop/Python_projects/topic_model/trained_models/model1/model1'
-PATH_FOR_TRAINED_DICTIONARY = '/Users/aleksejfilippov/Desktop/Python_projects/topic_model/trained_models/model1/dict1'
+PATH_FOR_INCOMMING_MESSAGE = '../data_for_topic model/incoming_data.txt'
+PATH_FOR_STOP_WORDS = '../data_for_topic model/stop_words.txt'
+PATH_FOR_TRAINED_MODEL = '../trained_models/model1/model1'
+PATH_FOR_TRAINED_DICTIONARY = '../trained_models/model1/dict1'
 
-PATH_FOR_SAVING_PICTURE = '/Users/aleksejfilippov/Desktop/Python_projects'
+PATH_FOR_SAVING_PICTURE = './'
 
 time0 = time.time()
 
